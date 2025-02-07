@@ -1,0 +1,33 @@
+<h1 align="center">Hi, I'm Hamza Khan Tareeni! 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Coding Gif">
+</p>
+
+---
+
+## 🌟 About Me
+
+I am a passionate Flutter Developer with extensive experience in mobile app development. My expertise lies in building robust, scalable, and user-friendly applications for both Android and iOS platforms. I have a strong background in designing and implementing complex features, ensuring seamless user experiences across devices.
+With a deep understanding of the Flutter framework and its capabilities, I specialize in creating high-performance apps that not only meet client requirements but also exceed user expectations. Whether it's developing from scratch or enhancing existing projects, I am dedicated to delivering top-quality software that makes a real impact.
+
+---
+
+## 🛠️ My Skills
+
+### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+## 📫 Connect with Me
+
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
